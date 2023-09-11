@@ -1,0 +1,14 @@
+/* Överskrid alla h2-element med en färg */
+h2 {
+    color: #0d5e09;
+}
+
+/* Skapa en klass med unik färg */
+.klass {
+    color: #ee7817;
+}
+
+/* Skapa ett id med en unik färg */
+#id {
+    color: #d30931;
+}
